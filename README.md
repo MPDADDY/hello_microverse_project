@@ -28,8 +28,6 @@
 
 # 📖 [hello_microverse_project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[hello_microverse_project]** is a project that it's main goal is to master how to use git and GitHub and other tools learned earlier.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -50,9 +48,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> Follow the live demo link to the deployed site.
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://mpdaddy.github.io/hello_microverse_project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,76 +65,25 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+You need to have installed git in your local system and you also need a code editor.
 
 ### Setup
+Go straight to the repository and click the code button and choose the url.
+you can use https link or the ssh one.
 
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
-Install this project with:
+Clone this repository to your desired folder:
+using 'git clone 'command and pasting the link you copied.
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
 To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+navigate to the project using the command  "cd 'project name'"
+and then run
+'code .'
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
