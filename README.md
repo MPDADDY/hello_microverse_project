@@ -14,8 +14,6 @@
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -47,8 +45,6 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Follow the live demo link to the deployed site.
 
 - [Live Demo Link](https://mpdaddy.github.io/hello_microverse_project/)
 
@@ -103,8 +99,6 @@ and then run
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[new_feature_1]**
 For now as it is an intro project , features will be communicated in the near future.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -123,7 +117,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
->If you like this project your may want to add a star on my git hub account i'll really appreciate it.
+If you like this project your may want to add a star on my git hub account i'll really appreciate it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
